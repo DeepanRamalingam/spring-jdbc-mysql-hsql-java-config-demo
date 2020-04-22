@@ -8,6 +8,7 @@ public class Employee {
 	private String design;
 	private String city;
 	private int salary;
+	
 	public int getEmpid() {
 		return empid;
 	}
